@@ -1,7 +1,7 @@
 - Hi, I’m @Nyanusz
 - I currently study at the University of Szeged
-- I’m interested in IT Security ...
-- I’m currently learning C#/Python/Java/C++/...
+- I’m interested in IT Security
+- I’m currently learning C#/Python/Java/C++/JavaScript
 
 
 
